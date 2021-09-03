@@ -1,2 +1,2 @@
-# alpha-demo
-This repo holds sample java app with maven
+# alpha
+This repo holds a sample java based maven code
